@@ -1,0 +1,116 @@
+INSTITUTO TECNICO DE EDUCACION
+COMERCIAL   AMERICANO
+CARRERA DE Sistemas informáticos
+
+ 
+	
+Desarrollo e implementación de un sistema web para la microempresa “Maferplas”
+
+Proyecto de grado para la obtención de Técnico Superior de Sistemas Informáticos
+
+POSTULANTE: MAMANI FLORES CARLOS GUILLERMO 
+TUTOR:  LIC. PAREDEZ LEDEZMA WILMER   
+
+                       
+LA PAZ -   BOLIVIA
+2023
+
+
+
+
+
+INDICE
+1	Capítulo I Marco Referencial	3
+1.1	Introducción	3
+1.2	Antecedentes	3
+1.3	Planteamiento del Problema	4
+1.3.1	Identificación de Problema	4
+1.3.2	Descripción del Problema	4
+1.3.3	Formulación del Problema	4
+1.4	Objetivos	5
+1.4.1	Objetivo General	5
+1.4.2	Objetivo Especifico	5
+1.5	Justificaciones	5
+1.5.1	Justificación Social	5
+1.5.2	Justificación Económica	5
+1.5.3	Justificación Técnica	5
+
+
+ 
+1	Capítulo I Marco Referencial
+1.1	Introducción
+En estos tiempos donde la actualidad tecnológica influye en el progreso social y económico, también abarcando las diferentes áreas del saber para la necesidad de aprender, actualizarse. donde un sitio web es una forma esencial para solucionar problemas, tener la información que busca el usuario.
+Existe diferentes sitios web empresarial con el fin de aumentar sus ventas, algunos sitios son mejores que otros, pero todas con la misma finalidad de mostrar al usuario la confiabilidad, una empresa trabaja para la valoración de su Marca dando informaciones sobre los productos, servicios que están a la oferta para los consumidores.
+Es por eso que la Microempresa Maferplas dedicada al trabajo con material plástico de PVC, tiene en la actualidad un movimiento de muestra de productos y ventas de forma manual, logrando la incomodidad en su trabajo, es por ese motivo que la microempresa pretende tener la implementación de una página web para la administración de su información.
+Se propone la implementación de un sitio web logrando la muestra de los precios, especificaciones y opiniones sobre todos los productos logrando la mejor atención y responder consultas de forma rápida, dirigida a sus clientes solucionar sus inquietudes y así llegar a un público más amplio. 
+1.2	Antecedentes
+•	Título: Sistema web de control y registro de visitas y personal de turno para “El centro de rehabilitación de Qalauma”
+•	Autor: Ramos Aruquipa, Fabio Romero
+•	Lugar: La Paz - Bolivia
+•	Resumen: El presente Proyecto de Grado titulado Sistema Web de Control y Registro de Visitas y Personal de Turno ha sido desarrollado en el Centro de Rehabilitación Qalauma. Tal Recinto Penitenciario alberga a jóvenes imputables, comprendidos entre los 16 a 21 años. Los diferentes problemas que se presentaron en este Centro de Rehabilitación radicaban en el control y el registro de las visitas que frecuentemente recibe. En el presente documento se hará una explicación de cómo se solucionaron los problemas principales del Centro de Rehabilitación, comenzando por la identificación de los mismos. Además, se describe el uso de las herramientas que ayudaron a resolver tales problemas, obteniendo así un Sistema confiable y eficiente. Uno de los objetivos de este proyecto es lograr que el Centro de Rehabilitación tenga una evolución en el ámbito de la información, lo cual repercutirá para que otros Recintos Penitenciarios requieran de esta herramienta indispensable. Para el desarrollo del proyecto se utilizó la metodología OpenUP, que propone cuatro fases para el ciclo de vida del proyecto. 
+•	URL: http://repositorio.umsa.bo/xmlui/handle/123456789/8169
+	Nota: No tiene ninguna relación con el proyecto presentado, tomado solo como referencia
+
+•	Título: Sistema web de seguimiento y control de información de clientes. Caso: LINXS S.R.L.
+•	Autor: Cussi Merlo, Hector Alberto
+•	Lugar: La Paz - Bolivia
+•	Resumen: Tener la información actualizada y en el momento oportuno es una necesidad primordial en todas las empresas para que puedan cumplir con sus objetivos, dicha información puede ser manipulada desde cualquier dispositivo y cualquier explorador que tenga una conexión a internet. La empresa LINXS S.R.L. está al servicio del país desde julio de 2005, se dedica al desarrollo de páginas web, material de publicidad y venta de espacios publicitarios, cuenta con su portal web Bolivia en tus manos, donde tiene las guías de más importantes de noticias, páginas amarillas, guía de hoteles, restaurantes, industrias, salud, agenda cultural y cartelera de cine. El proyecto “Sistema Web de seguimiento y control de la información de clientes Caso: LINXS S.R.L.”, tiene como principal objetivo ayudar al personal de la empresa en la obtención y manipulación de información de sus clientes. El sistema cuenta con tres módulos, para la administración de usuarios, para la gestión de clientes y servicios y para la obtención de reportes. En el desarrollo del sistema web se hace una combinación entre la metodología ágil Kanban y la metodología UWE, esta combinación es un aporte para futuros proyectos. Kanban nos permite visualizar el trabajo en un tablero dividido en bloques, cada elemento del trabajo esta descrito en una tarjeta, utiliza columnas para ilustrar donde este cada elemento en el flujo de trabajo. Limita el trabajo en curso para realizar una cantidad de tareas. UWE detalla el proceso de las aplicaciones, cuenta con cinco modelos que son el análisis de requerimientos, modelo de contenidos, modelo navegacional, modelo de presentación y modelo de procesos. Para la calidad del sistema web se utiliza la norma ISO 9126 y para la seguridad del sistema se realiza por niveles, tanto del lado del cliente como del lado del servidor.
+•	URL:  http://repositorio.umsa.bo/xmlui/handle/123456789/9927
+	Nota: No tiene ninguna relación con el proyecto presentado, tomado solo como referencia
+1.3	Planteamiento del Problema
+1.3.1	Identificación de Problema
+El problema de la microempresa surge debido que cuenta con una comercialización tradicional, muestra la deficiencia de no cubrir toda el área de los clientes al cual toma retraso al no poder difundir la información a totalidad de sus productos que son requeridos.
+1.3.2	Descripción del Problema
+•	Deficiencia en Publicaciones de artículos inexistentes que no reflejan la realidad
+•	Existe incoherencia en la información de algún articulo
+•	Todos los Procesos son de forma manual
+•	Dificultad al contactar al Cliente
+•	Desconocer de los servicios que brinda
+•	Descuido de los Comentarios y Requerimientos que necesita el Cliente
+1.3.3	Formulación del Problema
+¿Cómo proporcionar acceso libre y gratuito a los usuarios con el sistema web para la adquisición de artículos reales en oferta?
+1.4	Objetivos
+1.4.1	Objetivo General
+Desarrollo e Implementación de un sistema web dedicado a la comercialización de artículos que otorgue facilidad con la información y que permita el acceso libre a todo lo que ofrece la microempresa Maferplas.
+1.4.2	Objetivo Especifico
+Debe cumplir con los siguientes requisitos:
+•	Generar información automatizada y actualizada
+•	Reducir la Duplicación de Información de los artículos
+•	Diseñar una Base de Datos para el manejo de la información Confiable y segura
+•	Diseñar una interfaz amigable de fácil manejo en la aplicación de escritorio
+1.5	Justificaciones
+1.5.1	Justificación Social
+El principal beneficiario social está orientado a la mejor atención a los usuarios (clientes, trabajadores) con el cual podrá tener acceso a la información con una interfaz agradable, Se reducirá la carga laboral tanto para los trabajadores y clientes, de tal forma que todos ellos tengan una herramienta tecnológica, que facilite el óptimo desarrollo de sus actividades, facilitando el mejoramiento de los procesos, ofreciendo un servicio eficiente.
+1.5.2	Justificación Económica
+El sistema web no tendrá ningún costo para la microempresa 
+El proyecto que se lleva a cabo será de gran beneficio, no solo para la microempresa, sino para el personal en general, ya que con ella se hará eficiente el control de ventas con rápido acceso a la información, ahorro de tiempo y dinero.
+1.5.3	Justificación Técnica
+Se utilizará software libre por el motivo de que sus herramientas pueden ser utilizadas para cualquier propósito de manera libre, por lo que no requiere licencia.
+Las herramientas utilizadas en la programación del sistema son PHP, CSS, BOOTSTRAP porque son herramientas diseñadas para el desarrollo web de contenido dinámico, que se incorporan directamente al documento de HTML.
+También MYSQL, que es un lenguaje especifico de consulta estructurada que da acceso a un sistema de gestión de base de datos que permite una forma sencilla de efectuar consultas, que nos ayudará a manipular los datos con el lenguaje de control de datos que por un buen uso de él se garantizará un enrutamiento de datos satisfactorios. 
+1.6	Metodología
+Para el desarrollo del presente proyecto, se utilizará la siguiente metodología:
+Rational Unified Process (RUP)
+RUP es un proceso de desarrollo de software el cual utiliza el lenguaje unificado de modelo UML, constituye la metodología estándar más utilizado para el análisis, implementación y documentación de sistemas orientados a objetos. RUP divide el proceso en 4 fases:
+1.	Fase de Inicio
+2.	Fase de la Elaboración
+3.	Fase de Desarrollo
+4.	Fase de Cierre
+1.7	Alcances y Limites
+1.7.1	Alcances
+El proyecto será implementado en la Microempresa, estará disponibles para todos los usuarios con acceso a los artículos y consultas de acuerdo a funciones que realice. Los alcances que el sistema web dedicado a la venta de artículos llegara a obtener son los siguientes:
+•	Discreción con la información del usuario
+•	Interfaz Comprensible para que el sistema sea fácil de manejo
+•	Formulario de Registro de Clientes
+•	Formulario de Registro de Artículos, que será verificado por el administrador
+•	Base de datos de enrutamiento satisfactorio
+•	Modificación y Actualización de la base de datos
+1.7.2	Limites
+El siguiente proyecto propuesto no automatizara los siguientes procesos:
+•	El sistema no manejará Pagos, por lo cual el cliente tendrá que negociar con el proveedor fuera del sitio
+•	El sistema no cumplirá tareas de contabilidad
+•	No realizar el control del personal de trabajo
+1.8	Aportes
+Los aportes que el sistema ofrecerá serán de automatizar la venta a los usuarios que quiera adquirir algún artículo
+Lista de los artículos de acuerdo a la categoría requeridas por el usuario con lo cual Coadyuvara al manejo de información de los artículos ofrecidos a usuarios interesados
+ 
